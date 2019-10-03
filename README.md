@@ -16,7 +16,8 @@ http://cs231n.stanford.edu/reports/2017/pdfs/110.pdf
 
 [Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/pdf/1603.09246.pdf)
 
-[DeepPermNet: Visual Permutation Learning (ამის მიხედვით ავაწყოთ ქსელი](https://arxiv.org/pdf/1704.02729.pdf)
+[DeepPermNet: Visual Permutation Learning](https://arxiv.org/pdf/1704.02729.pdf)
+(ამის მიხედვით ავაწყოთ ქსელი)
 
 [DEEP PERM-SET NET: LEARN TO PREDICT SETS WITH UNKNOWN PERMUTATION AND CARDINALITY USING DEEP NEURAL NETWORKS](https://arxiv.org/pdf/1805.00613.pdf)
 
