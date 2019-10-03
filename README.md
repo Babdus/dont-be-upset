@@ -1,5 +1,19 @@
 # dont-be-upset
 
+### links
+
+[https://link.springer.com/chapter/10.1007%2F978-3-319-64698-5_18]
+[https://ieeexplore.ieee.org/document/7442162]
+[https://www.worldscientific.com/doi/abs/10.1142/S0218001418590012]
+[http://openaccess.thecvf.com/content_ICCV_2017/papers/Gur_From_Square_Pieces_ICCV_2017_paper.pdf]
+[https://research.wmz.ninja/articles/2018/03/teaching-a-neural-network-to-solve-jigsaw-puzzles.html]
+[http://cs231n.stanford.edu/reports/2017/pdfs/110.pdf]
+
+[Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/pdf/1603.09246.pdf)
+[DeepPermNet: Visual Permutation Learning (ამის მიხედვით ავაწყოთ ქსელი](https://arxiv.org/pdf/1704.02729.pdf)
+[DEEP PERM-SET NET: LEARN TO PREDICT SETS WITH UNKNOWN PERMUTATION AND CARDINALITY USING DEEP NEURAL NETWORKS](https://arxiv.org/pdf/1805.00613.pdf)
+[Solving Jigsaw Puzzles with Genetic Algorithms (youtube)](https://www.youtube.com/watch?v=6DohBytdf6I)
+
 ### surat.py
 
 იმპორტისთვის:
