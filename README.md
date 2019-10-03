@@ -39,10 +39,10 @@ s.save(path)
 
 ნებისმიერი ორი ფრაგმენტის წყვილის ამოსაღებად (ერთ სურათად მიწებებულის):
 ```python
-pair = s.get_pair(frag_1, frag_2) // from left to right
-pair = s.get_pair(frag_2, frag_1) // from right to left
-pair = s.get_pair(frag_1, frag_2, left=False, transpose=False) // from top to bottom
-pair = s.get_pair(frag_2, frag_1, left=False, transpose=False) // from bottom to top
-pair = s.get_pair(frag_1, frag_2, left=False) // from top to bottom and then transposed 90 degrees clockwise
-pair = s.get_pair(frag_2, frag_1, left=False) // from bottom to top and then transposed 90 degrees clockwise
+pair = s.get_pair(frag_1, frag_2) # from left to right
+pair = s.get_pair(frag_2, frag_1) # from right to left
+pair = s.get_pair(frag_1, frag_2, left=False, transpose=False) # from top to bottom
+pair = s.get_pair(frag_2, frag_1, left=False, transpose=False) # from bottom to top
+pair = s.get_pair(frag_1, frag_2, left=False) # from top to bottom and then transposed 90 degrees clockwise
+pair = s.get_pair(frag_2, frag_1, left=False) # from bottom to top and then transposed 90 degrees clockwise
 ```
