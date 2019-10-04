@@ -19,6 +19,9 @@ http://cs231n.stanford.edu/reports/2017/pdfs/110.pdf
 [DeepPermNet: Visual Permutation Learning](https://arxiv.org/pdf/1704.02729.pdf)
 (ამის მიხედვით ავაწყოთ ქსელი)
 
+[DeepPermNet](https://github.com/rfsantacruz/deep-perm-net)
+(აი მათივე გიტჰაბი)
+
 [DEEP PERM-SET NET: LEARN TO PREDICT SETS WITH UNKNOWN PERMUTATION AND CARDINALITY USING DEEP NEURAL NETWORKS](https://arxiv.org/pdf/1805.00613.pdf)
 
 [Solving Jigsaw Puzzles with Genetic Algorithms (youtube)](https://www.youtube.com/watch?v=6DohBytdf6I)
