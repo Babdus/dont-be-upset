@@ -52,3 +52,12 @@ class Surat:
 			if transpose:
 				pair = pair.transpose(Image.ROTATE_90)
 		return pair
+
+	def get_edge_vector(pair, p, left=True):
+		vector = []
+		data = list(pair.getdata())
+		for i in range(p):
+			pixel = data[i*p*2+p-int(left)]
+			vector += list(pixel)
+
+		return vector
